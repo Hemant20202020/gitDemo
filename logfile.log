@@ -1,0 +1,4 @@
+2022-09-13 13:10:36,448 :INFO :test_logging :Information Statement
+2022-09-13 13:10:36,448 :WARNING :test_logging :something is in warning mode
+2022-09-13 13:10:36,448 :ERROR :test_logging :a major error has happen
+2022-09-13 13:10:36,448 :CRITICAL :test_logging :critical issue
